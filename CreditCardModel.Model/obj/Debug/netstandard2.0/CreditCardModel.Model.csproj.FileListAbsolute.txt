@@ -1,0 +1,11 @@
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/bin/Debug/netstandard2.0/MLModel.zip
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/bin/Debug/netstandard2.0/CreditCardModel.Model.deps.json
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/bin/Debug/netstandard2.0/CreditCardModel.Model.dll
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/bin/Debug/netstandard2.0/CreditCardModel.Model.pdb
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/obj/Debug/netstandard2.0/CreditCardModel.Model.csproj.AssemblyReference.cache
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/obj/Debug/netstandard2.0/CreditCardModel.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/obj/Debug/netstandard2.0/CreditCardModel.Model.AssemblyInfoInputs.cache
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/obj/Debug/netstandard2.0/CreditCardModel.Model.AssemblyInfo.cs
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/obj/Debug/netstandard2.0/CreditCardModel.Model.csproj.CoreCompileInputs.cache
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/obj/Debug/netstandard2.0/CreditCardModel.Model.dll
+/Users/suren/Desktop/Code/Output/mlApp/CreditCardModel/CreditCardModel.Model/obj/Debug/netstandard2.0/CreditCardModel.Model.pdb

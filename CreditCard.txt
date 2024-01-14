@@ -1,0 +1,11 @@
+This card is 0 APR offer.	card 1
+Card that have highest rewards.	card 1
+Card with No annual fee.	card 1
+This type of card has Low Interest.	card 2
+The Best card for building credit history.	card 2
+This card offers Welcome bonuses.	card 2
+This card give Balance transfer offer.	card 3
+Card with No application fee.	card 3
+Card with 0 APR offer and highest rewards with no annual fee.	card 1
+This card gives low intrest, welcome bonuses and best card for building credit history.	card 2
+For No application fee and balance transfer.	card 3
